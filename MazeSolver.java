@@ -1,14 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Title:              MazeSolver
-// Files:              Main.java, MainPoint.java
-// Quarter:            CSE 8B Spring 2021
-//
-// Author:             Jonathan Tran
-// Email:              jot002@ucsd.edu
-// Instructor's Name:  Professor Allos
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import java.io.IOException;
 import java.util.Scanner;
 import java.io.File;
